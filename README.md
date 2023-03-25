@@ -33,3 +33,6 @@ Hello World!
 ## Result
 <img width="575" alt="Capture d’écran 2023-03-24 à 11 48 01" src="https://user-images.githubusercontent.com/91894666/227503528-d0db3774-966b-42ec-93ca-98a2633deb85.png">
 
+## Credit
+
+made with [Matthias Von-Rakowski](https://github.com/MatthiasvonRakowski)
